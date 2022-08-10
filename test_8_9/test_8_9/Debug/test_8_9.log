@@ -1,0 +1,3 @@
+﻿  test_8_9.c
+e:\c-code\c-code\test_8_9\test_8_9\test_8_9.c(80): warning C4716: “my_strcat”: 必须返回一个值
+  test_8_9.vcxproj -> E:\c-code\C-code\test_8_9\Debug\test_8_9.exe
